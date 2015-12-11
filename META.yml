@@ -24,4 +24,4 @@ resources:
   bugtracker: https://github.com/jjn1056/Catalyst-TraitFor-Model-DBIC-Schema-Result/issues
   homepage: https://github.com/jjn1056/Catalyst-TraitFor-Model-DBIC-Schema-Result
   repository: https://github.com/jjn1056/Catalyst-TraitFor-Model-DBIC-Schema-Result.git
-version: '0.004'
+version: '0.005'

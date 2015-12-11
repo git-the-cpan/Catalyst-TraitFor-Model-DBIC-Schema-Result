@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Catalyst-TraitFor-Model-DBIC-Schema-Result,
-version 0.004:
+version 0.005:
 
   Return a DBIC row based on the current Catalyst context
 
